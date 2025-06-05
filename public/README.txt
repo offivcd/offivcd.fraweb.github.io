@@ -1,1 +1,0 @@
-Place static assets like images here.
